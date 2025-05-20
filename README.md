@@ -21,3 +21,18 @@ Studentiem studējot augstskolā ir tiešām daudz darbu un lietu, ko darīt, vi
 7. Apreiķinātas atzīmes tiek izvadītas Studentam.
 
 
+
+## Bibliotēkas
+
+
+| Bibliotēkas |  Izmnatošana  |
+
+'pandas'            |   Lai nolasītu datus no Exel faila
+
+'openpyxl'       |   Nepieciešams, lai 'pamdas' varētu aprstrādāt .xlsx failu
+
+'statistics'     |   Tiek izmantota, lai apreiķinātu vidējo atzīmei katram priekšmetam
+
+
+
+
